@@ -8,9 +8,10 @@ title: "Pactical Machine Learning : HAR Course Project"
 author: "Angel Mak"  
 date: "May 23, 2015"  
 output: html_document
+
 ---
 
-## 1. Goal
+## Goal
 
 Fit a model to on-body sensor training data to predict the dumbbell lifting actions of 20 test cases.
 
